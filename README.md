@@ -1,7 +1,7 @@
 # 🚧 Homelab Build Project [WORK IN PROGRESS]
 
 > **Status:** Active Build Phase  
-> **Author:** Junior IT Specialist (1 Year IT Experience)  
+> **Author:** Senior in high school (Currently finishing last year of a technical academy for IT)  
 > **Last Updated:** August 2026
 
 ---
